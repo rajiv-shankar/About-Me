@@ -1,4 +1,3 @@
-# Udacity-FEND-Project-0
-Introduction
+# About Me
 
-My introductory project for the Udacity 'Front-End Web Developer' Nanodegree program.
+My initial project for the Udacity 'Front-End Web Developer' Nanodegree program, introducing myself.
